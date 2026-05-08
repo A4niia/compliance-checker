@@ -167,7 +167,7 @@ policy-checker/
 ### Step 1 — Clone and configure environment
 
 ```bash
-git clone https://github.com/A4niia/python-project-starter.git
+git clone https://github.com/A4niia/compliance-checker.git
 cd policy-checker
 
 # Copy the env template and fill in values
